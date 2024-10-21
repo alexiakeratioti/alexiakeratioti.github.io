@@ -9,5 +9,7 @@ byte4: you_just_found_the_triwizard_cup
 byte6: unzipping_was_never_so_easy
 byte7: tar_jokes_dont_stick
 
+byte9: filepaths_can_be_useful
+
 
 
